@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![chunyang stats](https://github-readme-stats.vercel.app/api?username=chunyang-wen)](https://github.com/anuraghazra/github-readme-stats)
+[![chunyang stats](https://github-readme-stats.vercel.app/api?username=chunyang-wen&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
